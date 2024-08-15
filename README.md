@@ -23,7 +23,7 @@ Please ensure that your system has Bash installed and properly configured.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Dinesh-singh-saini/Library-Management-System.git
+   git clone https://github.com/sandeep-kr-chaurasiya/library-management-system.git
 
 2. **Navigate to the Directory:**
    ```bash
